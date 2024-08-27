@@ -1,2 +1,2 @@
+<img src="img/screenshot.png" width="50%">
 
-![sample](img/screenshot.png)
